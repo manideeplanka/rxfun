@@ -67,6 +67,5 @@ public class RxSample {
                 System.out.println(integer + "");
             }
         });
-
     }
 }
